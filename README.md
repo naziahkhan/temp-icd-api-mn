@@ -1,2 +1,2 @@
 # temp-icd-api-mn
-this is a temp project for Minnesota data, related to ICD codes
+this is a temp project for Minnesota data, related to diagnoses descriptions
